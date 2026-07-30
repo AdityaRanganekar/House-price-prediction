@@ -1,0 +1,6 @@
+# MLflow tracking data
+mlartifacts/
+mlflow.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
